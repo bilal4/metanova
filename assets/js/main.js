@@ -1,4 +1,4 @@
-var  = function() {
+var  a = function() {
     'use strict';
 
     // Loaders 
