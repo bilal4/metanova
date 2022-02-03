@@ -153,7 +153,7 @@
            	position: myLatlng,
            	map: map,
 			// Marker Images (Change your marker image link)
-        	icon: 'http://mlmeniaga.com/website/html/eastern/assets/images/marker.png',
+        	icon: 'http://mlmeniaga.com/website/html//assets/images/marker.png',
            	title: data.title
            	});
 			(function (marker, data) {

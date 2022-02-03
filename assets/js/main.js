@@ -1,4 +1,4 @@
-var Eastern = function() {
+var  = function() {
     'use strict';
 
     // Loaders 
@@ -481,5 +481,5 @@ var Eastern = function() {
 }();
 
 $(document).ready(function() {
-    Eastern.init();
+    .init();
 });
