@@ -481,5 +481,5 @@ var  a = function() {
 }();
 
 $(document).ready(function() {
-    .init();
+    a.init();
 });
